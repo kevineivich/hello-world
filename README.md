@@ -1,7 +1,7 @@
 # hello-world
 Lab Project Hello-World
 
-*Kevin Eivich
+* Team Dogs
 * GitHub Lab Project
 * March 6 2019
 * Professor Mansaray
